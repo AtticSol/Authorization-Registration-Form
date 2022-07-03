@@ -11,12 +11,12 @@
 
 	<form action="AuthorizationAndRegistration" method="get"> 
 		<input type="hidden" name="command" value="authorization" /> Enter login:<br />
-			<input type="text" name="login" value="" /><br /> Enter password:<br />
-			<input type="password" name="password" value="" /><br />
+		<input type="text" name="login" value="" /><br /> Enter password:<br />
+		<input type="password" name="password" value="" /><br />
 			
 		<div>
-    		<input type="submit" value="press me"/>
-    	</div>
+    			<input type="submit" value="press me"/>
+    		</div>
 	</form>
 	
 </body>
